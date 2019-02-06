@@ -541,6 +541,27 @@ body{
 	width: 20px;
 	margin-right: 15px;
 }
+
+/* Course */
+#course .block{
+	padding-top: 40px;
+}
+#course .block p{
+	font-size: 10px;
+	margin-top: -8px;
+}
+#course .block p span{
+	font-size: 16px;
+}
+#course .section{
+	margin-bottom: 20px;
+	border-radius: 8px;
+	padding: 20px 40px 40px;
+}
+#course .section p{
+	font-size: 12px;
+}
+
 /* Responsive */
 
 @media screen and (max-width: 1200px) {
