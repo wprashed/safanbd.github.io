@@ -1,0 +1,36 @@
+@font-face {
+    font-family: b-lt;
+    src: url(../fonts/Bahij_TheSansArabic-Light.ttf);
+}
+
+@font-face {
+    font-family: b-rg;
+    src: url(../fonts/Bahij_TheSansArabic-Plain.ttf);
+}
+
+@font-face {
+    font-family: b-md;
+    src: url(../fonts/Bahij_TheSansArabic-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: b-bd;
+    src: url(../fonts/Bahij_TheSansArabic-Bold.ttf);
+}
+
+@font-face {
+    font-family: sans-rg;
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: sans-bd;
+    src: url(../fonts/OpenSans-Bold.ttf);
+}
+@font-face {
+    font-family: taj-rg;
+    src: url(../fonts/Tajawal-Regular.ttf);
+}
+@font-face {
+    font-family: taj-bd;
+    src: url(../fonts/Tajawal-Bold.ttf);
+}
